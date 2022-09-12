@@ -26,7 +26,9 @@
               "PortfolioAP/PortfolioAP/node_modules/bootstrap/dist/css/bootstrap.css",
               "src/styles.css"
             ],
-            "scripts": []
+            "scripts": [
+              "PortfolioAP/PortfolioAP/node_modules/bootstrap/dist/js/bootstrap.js"
+            ]
           },
           "configurations": {
             "production": {

@@ -1,0 +1,10 @@
+#fotoPerfil{
+
+    width: 100px;
+    height: 100px;
+    margin-left: 15px;
+    background-image: url(../../../assets/fotoPerfil.jpg);
+    background-size: cover;
+    border-radius: 50%;
+   
+}
